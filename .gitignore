@@ -2,6 +2,9 @@
 config.py
 __pycache__
 .cache
+<<<<<<< HEAD
 
 **/.vscode
 
+=======
+>>>>>>> 40da3de70738732f6db4a115411e7bf295aca677
